@@ -6,14 +6,22 @@ http://www.ftrain.com/cgi-bin/l_operation.cgi?num_ops=10
 
 ## Example usage
 
+At the ```$``` command prompt:
+
 ```$ ./amongd.pl```
+
+Expected results:
 
 ```Operation Evangelical Frenzy```
 
 You can also provide an integer in order to generate multiple
 military operating names at once.
 
+At the ```$``` command prompt:
+
 ```$ ./amongd.pl 10```
+
+Expected results:
 
 ```
 Operation Bowel-loosening Gorgon
